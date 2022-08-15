@@ -1,0 +1,7 @@
+# csv files
+*.csv
+
+# scripts
+*.sh
+*.py
+.ipynb*
